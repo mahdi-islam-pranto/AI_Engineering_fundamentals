@@ -39,5 +39,3 @@ print(y_pred)
 y_pred_with_new_value = lasso.predict([[8.2]])
 
 print(y_pred_with_new_value)
-
-
